@@ -187,3 +187,4 @@ There are extensions for both Prettier and ESLint in Visual Studio Code. They ca
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 You are encouraged to run Prettier and ESLint on your code before committing.
+Created by Jason Scott Heise
